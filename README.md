@@ -4,15 +4,15 @@ This project demonstrates a basic Java client-server model using sockets. The se
 
 ---
 
-## 🔗 Projects Overview
+## Projects Overview
 
-### 🖥️ Server (`/FibonacciServer`)
+### Server (`/FibonacciServer`)
 - Listens on port `5000`
 - Accepts a number from the client
 - Computes the Fibonacci number using dynamic programming
 - Sends the result back to the client
 
-### 💻 Client (`/FibonacciClient`)
+### Client (`/FibonacciClient`)
 - Java Swing GUI
 - User enters a number
 - Connects to the server via socket
@@ -21,14 +21,14 @@ This project demonstrates a basic Java client-server model using sockets. The se
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Java 8+
 - Any IDE (NetBeans, IntelliJ, Eclipse) or command line
 
 ---
 
-## ▶️ How to Run
+## ▶How to Run
 
 ### 1. Start the Server
 ```bash
