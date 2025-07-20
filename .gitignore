@@ -1,0 +1,30 @@
+# Ignore compiled class files and project build output
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans build folders
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
